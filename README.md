@@ -1,6 +1,9 @@
 # flutter_netflix
 
 A new Flutter project.
+MVVM(my style or my way)
+Getx
+Movies api
 
 ## Getting Started
 
